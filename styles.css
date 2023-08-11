@@ -27,6 +27,7 @@ strong, p, li, span, h2, h3, h4, h5, h6 {
   color: white !important;
   background: transparent !important;
   background-color: transparent !important;
+
 }
 
 .jv-page-body .jv-wrapper, .jv-page-header, .jv-job-list-inner, .jv-tabs, .jv-job-list-inner {
